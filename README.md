@@ -63,7 +63,7 @@ The pilot does not establish that any setting sounds better. The full study will
 The [project website](https://haowen-li917.github.io/elec5305-project-540313992/) contains the project summary and preliminary pilot. The original [proposal PDF](ELEC5305_Project_Proposal_Haowen_Li.pdf) is retained unchanged.
 
 - [MATLAB pilot](experiment/pilot_alpha_sweep.m)
-- [GitHub Pages workflow](.github/workflows/pages.yml)
+- The project site is published from the `main` branch root by the repository's existing GitHub Pages setup.
 
 ## Student
 
